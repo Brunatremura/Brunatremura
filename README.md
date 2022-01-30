@@ -1,6 +1,5 @@
  <div>
     <h1>Olá!</h1> <br>
-    <h2>Quem sou eu </h2>
     <img align="right" alt="Bru-gifgato" height="100" width="150" src="http://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_00.gif"> 
     <p>Meu nome é Bruna, tenho 27 anos e curso Sistemas para Internet no IFMT. </p> <br>
     <h2><p>Estou aprendendo: </p></h2>
