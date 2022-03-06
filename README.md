@@ -1,5 +1,5 @@
  <h1>Olá!</h1>  
- <img align="right" alt="Bru-gifgato" height="60%" width="60%" src="https://t.ctcdn.com.br/AwxkFgvpQizV0aW2qJ_uHcXQNxU=/i361132.gif">
+ <img align="right" alt="Bru-gifgato" height="70%" width="70%" src="https://t.ctcdn.com.br/AwxkFgvpQizV0aW2qJ_uHcXQNxU=/i361132.gif">
  <p>Meu nome é Bruna, tenho 27 anos e curso Sistemas para Internet no Instituto Federal de Mato Grosso. Também tenho estudado por meio de alguns bootcamps e estou em busca de  minha primeira oportunidade de estágio </p> <br>
  
  <div>
